@@ -1,0 +1,17 @@
+{
+  "name": "all finds!",
+  "version": "1.0.0",
+  "description": "Welcome to **all finds!**, the eco-friendly e-commerce platform designed for every age group, With our platform
+you can buy and sell second-hand goods among themselves, creating a sustainable marketplace. 
+This initiative allows reusage of multiple goods and allows users to incorporate all these products.**happy finding!!**
+  "main": "index.js",
+  "scripts": {
+    "install-server": "cd Server && npm install",
+    "start-server": "cd Server && node server.js",
+    "install-client": "cd Client && npm install",
+    "build-client": "cd Client && npm run build",
+    "start-client": "cd Client && npm run start"
+  },
+  "keywords": [],
+  "author": "soumya rasal",
+  
